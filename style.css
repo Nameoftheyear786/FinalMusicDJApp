@@ -1,0 +1,19 @@
+body{
+    background-size:cover;
+}
+
+#heading{
+font-size: 20px;
+}
+
+#note{
+font-size: 17px;
+}
+
+#Music{
+font-size: 15px;
+}
+
+#canvas{
+    border-radius: 10px;
+}
